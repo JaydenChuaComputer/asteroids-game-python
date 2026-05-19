@@ -8,6 +8,11 @@ A simple, classic Asteroids game built with Python and Pygame.
 * **Controls:** Built-in keyboard support for rotation, thrust, and shooting.
 * **State Management:** Includes pausing, game over detection, and high-score tracking (via score display).
 
+## 🌟 Play Now
+No setup required! You can play the live versions of the game right now:
+* 🌐 **Play on Web:** [itch.io](https://jc-study.itch.io/asteroids)
+* 📱 **Download for Android (.apk):** [Download Here]()
+
 ## Prerequisites
 * Python 3.x
 * `pygame` library
