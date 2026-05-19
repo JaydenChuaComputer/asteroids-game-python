@@ -11,7 +11,7 @@ A simple, classic Asteroids game built with Python and Pygame.
 ## 🌟 Play Now
 No setup required! You can play the live versions of the game right now:
 * 🌐 **Play on Web:** [itch.io](https://jc-study.itch.io/asteroids)
-* 📱 **Download for Android (.apk):** [Download Here]()
+* 📱 **Download for Android (.apk):** [Download Here](https://github.com/JaydenChuaComputer/asteroids-game-python/releases/download/v1.0/Asteroids.exe)
 
 ## Prerequisites
 * Python 3.x
