@@ -7,7 +7,7 @@ A simple, classic Asteroids game built with Python and Pygame.
 
 <br>
 
-## Features
+## Features 
 * **Classic Gameplay:** Pilot your ship, avoid asteroids, and shoot to clear the screen.
 * **Controls:** Built-in keyboard support for rotation, thrust, and shooting.
 * **State Management:** Includes pausing, game over detection, and high-score tracking (via score display).
